@@ -38,12 +38,14 @@ Creator of the open-source package [**django-simple-grpc**](https://pypi.org/pro
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinFattahi&show_icons=true&theme=default&hide_title=false&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinFattahi&layout=compact&theme=default" />
-</p>
+### 🔍 What I Work On
+- Backend APIs using Django & DRF  
+- Authentication and Authorization (OAuth2, custom tokens)  
+- Asynchronous jobs with Celery + Redis  
+- Scalable PostgreSQL schemas with indexing and optimization  
+- Microservices communication with gRPC  
+- Custom CMS and admin interfaces (Wagtail & Django Admin)  
+- CI/CD, Docker, and deployment best practices
 
 ---
 
