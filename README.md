@@ -50,5 +50,5 @@ Creator of the open-source package [**django-simple-grpc**](https://pypi.org/pro
 ---
 
 ### 📫 How to reach me
-- GitHub: [@HosseinFattahi](https://github.com/HosseinFattahi)
+- Linkedin: [@[HosseinFattahi](https://www.linkedin.com/in/hossein-fattahi-/)]
 - Email: [hofattahi98@gmail.com]
